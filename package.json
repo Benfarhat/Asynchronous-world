@@ -1,0 +1,35 @@
+{
+  "name": "asynchronous-world",
+  "version": "0.0.1",
+  "description": "Evolution of JS asynchronous",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint *.js"
+  },
+  "keywords": [
+    "callback",
+    "xmlhttprequest",
+    "async",
+    "await",
+    "promise",
+    "then",
+    "catch",
+    "resolve",
+    "reject"
+  ],
+  "author": "Benfarhat Elyes",
+  "license": "MIT",
+  "dependencies": {
+    "xhr2": "^0.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-babel": "^4.1.2",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
