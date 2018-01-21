@@ -24,6 +24,7 @@
   "dependencies": {
     "abort-controller": "^1.0.0",
     "node-fetch": "^1.7.3",
+    "request": "^2.83.0",
     "xhr2": "^0.1.4"
   },
   "devDependencies": {
